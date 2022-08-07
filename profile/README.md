@@ -1,4 +1,4 @@
-# Software & Hardware
+# Information
 Private Gruppe die zusammen an verschiedenen Projekten arbeitet! Prozessorprogrammierung, Compiler, ...
 Wir arbeiten auf Hardware & Software Ebene! [ C, C++, Java, Batch, Python, JavaScript ]
 
