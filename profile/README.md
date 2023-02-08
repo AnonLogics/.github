@@ -1,2 +1,2 @@
-# Delta Lab
-Wir sind eine private Gruppe die zusammen an verschiedenen Projekten arbeitet!
+# Ghost Lab
+Private group that works on many different projects!
