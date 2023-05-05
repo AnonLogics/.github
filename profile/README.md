@@ -1,2 +1,2 @@
-# Berkano Lab
-Private group that works on many different projects!
+# MathC
+The MathC programing language!
